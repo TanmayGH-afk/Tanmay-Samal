@@ -56,7 +56,7 @@ A space-themed endless runner where survival depends on collecting oxygen.
 - Player abilities, obstacle behavior, and oxygen system  
 - Spaceship shooting mode and gameplay polish  
 
-**Tech:** Unreal Engine 5.4.4, Blueprints  
+**Tech:** Unreal Engine, Blueprints  
 🎥 YouTube: Cyber-Runner Gameplay Link  
 
 ---
@@ -75,7 +75,7 @@ A sci-fi TPS set in a city construction zone invaded by aliens.
 - Enemy AI behavior, attacks, and patrol logic  
 - Drone support system and mission flow  
 
-**Tech:** Unreal Engine 5.4.4, Blueprints  
+**Tech:** Unreal Engine, Blueprints  
 🎥 Gameplay Video: Coming Soon  
 
 ---
